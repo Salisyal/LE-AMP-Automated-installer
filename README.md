@@ -10,7 +10,7 @@ Feature :
 
 How to use : 
 ```bash
-$ git clone https://github.com/Sianturi1337/MaeWS.git
+$ git clone https://github.com/Salisyal/LE-AMP-Automated-installer.git
 
 $ cd /MaeWS
 
